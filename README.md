@@ -5,5 +5,4 @@
 
 Here are some ideas to get you started:
 
-
-- 🌱 Aktualnie uczę się cyberbezpieczeństwa
+🌱 Aktualnie uczę się cyberbezpieczeństwa
